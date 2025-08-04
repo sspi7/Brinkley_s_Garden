@@ -1,2 +1,2 @@
 # Brinkley_s_Garden
-A place to smile when the garden is flourishing and the animals and insects play
+A peaceful haven where smiles blossom alongside the vibrant, flourishing garden, as cheerful animals and busy insects dance and play among the blooms, creating a symphony of life and joy.
