@@ -9,8 +9,12 @@ Whether you're a gardening enthusiast, a student, or someone curious about the n
 # Project Roadmap
 
 ## Phase 1: Planning
-- Define goals
-- Gather resources
+- <b>Define goals</b>
+-- Section off the garden in to full sun, partial sun and shade. You also need to note down the time these changes occur. My reason is that some plants although in full sun only need 4-6 hours os sunlight, any more can harn the plant. Other plants want as much sun as they can get. Note: when plants that enjoy basking in the sun, you need to checkt the moisture in the soil using a moisture and ph meter. 
+- <b>Gather resources</b>
+-- Decide what size of planters you will be using; size, shape, and type of container matters. Why does it matter? Forst consider the depth of the container for palnts that a long deep root syste, or one that loves to sproall along the whole yard. These two of plants, usually trees can take over your ground nutrition and depp water source meant ofr other trees that do share. LOL. Olay nice trees everyone of you will win-win. Do make important decidiones in regards to how much land will be involved and the root system in direting planting into the ground. If you are using containers you have to make sure it is the appropriate size and depth. NOTE: Always use black contianers, research shows you plants will thrive better and longer.
+-- Next look for availale water source and how you will disperse the water to the vegetation.
+
 
 ## Phase 2: Development
 - Set up environment
